@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "アイラブユー",
+  "base_artist": "back number",
+  "createdAt": "2025-12-02T14:15:14.932062Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイラブユー",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/01_アイラブユー_back_number.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイラブユー",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/02_アイラブユー_back_number.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイラブユー - I Love You",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/03_アイラブユー_-_I_Love_You_back_number.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ベイビー・アイラブユー - Baby I Love You",
+      "artist": "TEE",
+      "has_synced": true,
+      "path": "select/04_ベイビー・アイラブユー_-_Baby_I_Love_You_TEE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ベイビー・アイラブユー",
+      "artist": "ＴＥＥ",
+      "has_synced": true,
+      "path": "select/05_ベイビー・アイラブユー_TEE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アイラブユー",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/06_アイラブユー_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ベイビー・アイラブユー",
+      "artist": "TEE",
+      "has_synced": false,
+      "path": "select/07_ベイビー・アイラブユー_TEE.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シェネル（Che’Nelle） - ベイビー・アイラブユー (English Ver.) [Official Video]",
+      "artist": "Che'Nelle",
+      "has_synced": true,
+      "path": "select/08_シェネル(Che’Nelle)_-_ベイビー・アイラブユー_(English_Ver.)_[Official_Video]_Che'Nelle.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アイラブユー - I Love You",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/09_アイラブユー_-_I_Love_You_back_number.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ベイビー・アイラブユー - English Ver.",
+      "artist": "Che'Nelle",
+      "has_synced": true,
+      "path": "select/10_ベイビー・アイラブユー_-_English_Ver._Che'Nelle.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アイラブユー",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/11_アイラブユー_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アイラブユー",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/12_アイラブユー_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アイラブユー",
+      "artist": "THE NOVEMBERS",
+      "has_synced": false,
+      "path": "select/13_アイラブユー_THE_NOVEMBERS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイラブユー",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_アイラブユー_back_number.txt"
+    }
+  ]
+}
